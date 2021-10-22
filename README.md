@@ -11,8 +11,8 @@ terdiri dari 50 foto dengan resolusi 1600x120px dan Overview dataset dengan reso
 
 ### Dependencies
 
-* Python
-* Google Collab atau Jupyter Notebook
+* [Python](https://www.python.org/downloads/)
+* [Google Colab](https://colab.research.google.com/) atau [Jupyter Notebook](https://jupyter.org/install)
 
 ### Installing
 
