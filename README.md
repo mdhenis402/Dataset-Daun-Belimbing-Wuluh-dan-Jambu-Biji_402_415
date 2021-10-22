@@ -16,13 +16,17 @@ terdiri dari 50 foto dengan resolusi 1600x120px dan Overview dataset dengan reso
 
 ### Overview
 
+* Daun Jambu Biji
+  ![Daun Jambu Biji](https://github.com/mdhenis402/Dataset-Daun-Belimbing-Wuluh-dan-Jambu-Biji_402_415/blob/main/image/Overview_Daun%20Jambu%20Biji.jpg)
+
+
 ## Authors
 
-Contributors:
+* Contributors:
 
-[Muhammad Dhenis Kusuma Adji-201910370311402](https://github.com/mdhenis402)
+   * [Muhammad Dhenis Kusuma Adji-201910370311402](https://github.com/mdhenis402 | height=800)
 
-Jasaq Amirus Nusananta-201910370311415
+   * Jasaq Amirus Nusananta-201910370311415
 
 ## Version History
 
