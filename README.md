@@ -27,7 +27,7 @@ Gambar Overview dari Datasets
 
 * Contributors:
 
-   * [Muhammad Dhenis Kusuma Adji-201910370311402](https://github.com/mdhenis402 | height=800)
+   * [Muhammad Dhenis Kusuma Adji-201910370311402](https://github.com/mdhenis402)
 
    * Jasaq Amirus Nusananta-201910370311415
 
